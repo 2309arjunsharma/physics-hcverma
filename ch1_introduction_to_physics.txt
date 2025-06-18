@@ -1,0 +1,58 @@
+Pa=N/m2 
+= MLT-2/L2
+= M1L1-2T-2
+= M1L-1T-2 (Pressure Dimensional Formula)
+Dimension= 1,-1,-2
+
+Area=5m2 ,Convert to cgs
+N1u1=n2u2
+N2=n1 u1/u2
+area=side2=L2
+n2=5 m/cm=5[L1/L2]2=5[m/cm]2
+5 [100cm/cm]2 = 5 X 10000 = 50000
+
+Principle of homogeneity of Dimensions
+Dimensions of LHS=RHS, if not equal then equation incorrect
+V = u + at
+LT-1 = LT-1 + LT-2T
+LT-1= LT-1 + LT-1 == Yes, this equation is dimensionally correct.
+
+W+F X Power+Pressure [Because they are not dimensionally correct.]
+WXF = distance/time
+S= ut+at2
+L= LT-1T + LT-2T2
+L=LT-1+1=0+LT-2+2=0
+L=L+L
+LHS=RHS
+Yes, this equation is dimensionally correct but not numerically.
+
+
+S= ut+ ½at2
+This equation is dimensionally and numerically correct.
+½ is dimensionless (Dimension = 0)
+
+Q1: If the velocity of light c, accln due to gravity g and atmospheric pressure p are taken into fundamental units, then dimensions of length will be---
+Ans- Length ∝ cxgypz
+(c = velocity of light 
+c = LT-1
+g = LT-2
+p = F/A = MLT-2/L2
+p = M1L-1T-2)
+L = K [LT-1]x [LT-2]y [M1L-1T-2]z
+L = KLx+y-z T-x-2y-2z Mz
+M0L1T0 = KMzLx+y-z T-x-2y-2z
+z = 0, -x-2y-2z = 0,-x-2y-2(0)=0, -x-2y= 0, -x=2y, -x=2(-1), x=2
+1=x+y-z, 1=x+y-0, x+y=1, -2y+y=1
+-y=1, y=-1
+
+Length= Kcx.gy.pz.
+Length= Kc2.g-1.p0
+Length=K c2/g
+Length ∝ c2 /g
+
+Work, torque, energy = ML2T-2
+
+
+
+
+
